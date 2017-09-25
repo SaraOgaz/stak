@@ -5,7 +5,7 @@ dependencies:
   - cython
   - numpy
   - scipy
-  - astropy
+  - astropy>=2.0
   - numpydoc
   - pyparsing
   - nbconvert >= 4.2.0

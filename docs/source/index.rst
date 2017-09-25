@@ -24,7 +24,11 @@ algorithms that exists in the astronomy/Python ecosystem, relying heavily
 on the use of the Astropy project.  In addition to writing replacement
 functionality where needed, we are also providing the community with short
 tutorials on how to translate a large portion of IRAF tasks into Python
-through the format of Jupyter Notebooks.
+through the format of Jupyter Notebooks.*
+
+**Currently this package is empty and efforts have been focused on building the jupyter notebook
+library, which consists of short tutorials on how to translate a large portion of IRAF tasks into
+Python through the format of Jupyter Notebooks, please see below.**
 
 **Important Note: The HST and JWST pipelines will NOT be part of this package,
 unlike the IRAF STSDAS package.**
@@ -34,7 +38,7 @@ STAK Jupyter Notebooks
 ======================
 A main goal of the STAK project is to provide a guide/tutorials for
 users moving from IRAF to Python.  We are building `Jupyter notebooks
-<http://jupyter-notebook.readthedocs.io/en/latest/>`_ for most IRAF
+<http://jupyter-notebook.readthedocs.io/en/latest/>`_ for many IRAF
 packages included in the IRAF STScI distribution.  The Jupyter notebook
 provides documentation combined with runnable Python code in one interactive
 space.

@@ -11,18 +11,23 @@ STAK
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
 
+.. image:: https://img.shields.io/badge/powered%20by-STScI-blue.svg?colorA=707170&colorB=3e8ddd&style=flat
+    :target: http://www.stsci.edu
+    :alt: Powered by STScI Badge
+
 About
 =====
 STAK (the STScI Analysis Toolkit) is a general purpose library to provide
-computational resources for astronomical data reduction and analysis.
+computational resources for astronomical data reduction and analysis. You
+can read the full specification at `the online documentation
+<http://stak.readthedocs.io/>`_.
+
+**Please note, this package is currently empty, see linke to Jupyter Notebooks below**
 
 Part of this effort is also to ease the transition from legacy IRAF scripts and
-analysis routines into the Python ecosystem.  For help translation your IRAF
+analysis routines into the Python ecosystem. For help translating your IRAF
 functions into their Python equivalent, see our `notebook tutorials
 <http://stak-notebooks.readthedocs.io/en/latest/>`_.
-
-You can read the full specification at `the online documentation
-<http://stak.readthedocs.io/>`_.
 
 
 Contributing
